@@ -64,4 +64,12 @@ void loop() {
   digitalWrite(LED_GREEN, HIGH);
   digitalWrite(LED_BLUE, HIGH);
   delay(1000);
+
+  
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(10);
+  digitalWrite(LED_BUILTIN, LOW);
+  delay(1000);
+
+  
 }
