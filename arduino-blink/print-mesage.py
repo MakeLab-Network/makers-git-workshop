@@ -3,4 +3,3 @@ void main () {
 	mesage = "Hellow World";
 	printf (mesage);
 	}
-	
